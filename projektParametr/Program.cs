@@ -101,7 +101,7 @@ class DiskAndProcessorInfo
             int smtpPort = 587;
             string senderEmail = "botarkadiusz@gmail.com"; 
             string senderPassword = "omckepbbheypgocg"; 
-            string recipientEmail = "oskark.2709@gmail.com"; 
+            string recipientEmail = "adrian.gogacz@zst.radom.pl"; 
 
             MailMessage mail = new MailMessage();
             mail.From = new MailAddress(senderEmail);
